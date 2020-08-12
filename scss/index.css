@@ -1,0 +1,18 @@
+.header-color {
+	background-color: aquamarine;
+}
+
+.bg-pic-1 {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(../resource/bg-programming.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	
+}
+
+.portfolio-bg-1 {
+	background-image: url(../resource/bg-ptf-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
